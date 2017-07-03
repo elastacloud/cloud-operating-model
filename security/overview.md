@@ -10,6 +10,7 @@ Ongoing monitoring and checking of the environment plays a key role. If left to 
   * Identity
   * Securing resources
   * Monitoring
+* Securing the platform
 
 ## References
 
