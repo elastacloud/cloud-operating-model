@@ -1,8 +1,24 @@
-# Cloud operating model
+# Cloud Operating Model
 
-*introduction*
+There are many reasons that a Cloud Strategy may be adopted in business. Existing IT estates may be showing their age, new challenges may be emergent due to changing customer behaviour or competitors may be moving forwards gaining a competitive advantage that you seek to match. Whatever the root impetus, the Cloud Strategy requires a comprehensive Operating Model to deliver most effectively against the Cloud Strategy. 
 
-## Cost management
+This document, produced by Elastacloud Limited, attempts to lead a discussion in building a comprehensive operating model.  
+
+## Cloud Fundamentals
+
+### Infrastructure
+
+### Platform
+
+### Software
+
+### Cloud Native 
+
+(Interoperability between Platform/Software Services)
+
+## Cloud Economy and Cost Management
+
+Time/Throughput equality. 
 
 ### On-demand resources
 
@@ -27,3 +43,14 @@
 ### Reproducable deployments
 
 ### Transient environments
+
+### Disaster Recovery
+
+## Skills
+
+### Adoption 
+
+### Continuous Training
+
+### Advocates
+
