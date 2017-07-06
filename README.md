@@ -28,6 +28,14 @@ Time/Throughput equality.
 
 ## Security
 
+Key questions:
+
+* Security starts at the client: controls that have to be in place in relation to the security hardening of devices
+* Cloud side 
+    * Data
+    * Runtimes
+    * Secrets
+
 ### Separation
 
 ### Identity
