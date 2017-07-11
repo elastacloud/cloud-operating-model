@@ -4,7 +4,23 @@ There are many reasons that a Cloud Strategy may be adopted in business. Existin
 
 This document, produced by Elastacloud Limited, attempts to lead a discussion in building a comprehensive operating model.  
 
+## Definitions
+
+- In-house technology 
+    - Our IT Team and everything they influence in our technology stack
+- Vendor supplied technology
+    - Those cloud services we can buy in 
+
 ## Cloud Fundamentals
+
+The core of the operating model is to expand the productivity and capability of the in-house technology team by leveraging the available vendor supplied technology. The range of the vendor supplied technologies varies from supplier to supplier, but is generally regarded as broad at this stage in Cloud evolution.
+
+Vendor supplied technologies should be measured along the following lines:
+
+- *PaaS First* - Prefer services that abstract significant overhead from the in-house technology team
+  - *Buy vs build* - Evaluation of the effort required to simulate the functionality versus the cost of any platform service gives a ROI for adoption
+  - *Lockin metric* - Evaluation of the effort required to simulate the functionality versus the availability of equivalent platform services gives a portability metric  
+- *OSS* - Prefer services that offer their internals as Open Source software licenses
 
 ### Infrastructure
 
@@ -25,6 +41,10 @@ Time/Throughput equality.
 ### Scaling
 
 ### Billing
+
+#### Partitioning of Resources
+
+#### Tagging and Policy
 
 ## Security
 
