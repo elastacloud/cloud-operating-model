@@ -22,6 +22,12 @@ Vendor supplied technologies should be measured along the following lines:
   - *Lockin metric* - Evaluation of the effort required to simulate the functionality versus the availability of equivalent platform services gives a portability metric  
 - *OSS* - Prefer services that offer their internals as Open Source software licenses
 
+Core Fundamentals
+
+1. Agility
+1. Scale
+1. Economy
+
 ## Characteristics of an Agile Cloud solution
 
 1. Cloud solutions are controlled through communication with a Fabric, that giant builder of systems that resides inside the datacentre. 
@@ -51,7 +57,6 @@ In some solutions, IaaS is the only option. Where this is the case, exposing Paa
 There are two primary mechanisms for scale within a cloud scenario. These are termed scale up – the provision of additional resource capacity within a single node (more CPU, more RAM, more disk) and scale out – the provision of additional nodes with identical capacity into an existing set of nodes (more machines). Scale Up has a finite limit and whilst the limit may be high, it is a hard limit – there are not always bigger machines. Scale Out offers the consumer the notion of infinite scale – there are always more nodes to add in. 
 
 There are examples where scale out is problematic, particularly with legacy codebases or vendor systems not designed or licensed to scale in this way. Furthermore, some systems (such as large scale analytics systems) require a relatively high starting point on the scale-up proposition and scale out might then prove economically challenging. 
-
 
 ### Infrastructure
 
