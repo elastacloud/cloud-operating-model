@@ -58,7 +58,7 @@ Separating your roles allows you to also separate the services you are consuming
 
 From the outset your service should be operated and managed securely so as to ensure that solutions are developed in a secure manner and that attacks are impeded, detected and (hopefully) prevented. Those who are operating the security of the environment should work with development teams to ensure that operational security is thought about throughout the application development lifecycle.
 
-Importantly, as much as possible should be automated and managed through tooling with the team having all the available resource it needs itself to carry out operations. A good [operational security](../operations/operational-security.md) model should not introduce complex or heavyweight processes, or require time consuming and expensive processes. The model should allow for the rapid response and resolution of incidents.
+Importantly, as much as possible should be automated and managed through tooling with the team having all the available resource it needs itself to carry out operations. A good [operational security](./operational-security.md) model should not introduce complex or heavyweight processes, or require time consuming and expensive processes. The model should allow for the rapid response and resolution of incidents.
 
 ## References
 
