@@ -140,7 +140,7 @@ Key questions:
 ### Advocates
 
 # Reusability
-All Cloud artefacts should be stateless as infrastructure with a path to restoring state from centralised repositories where rehydration is required. As such the cloud artefacts become freely exchangeable as waves in the sea. 
+All Cloud artefacts should be stateless as infrastructure with a path to restoring state from centralised repositories where rehydration is required. As such the cloud artefacts become freely exchangeable, with the individual infrastructure identity as inconsequential as waves in the sea. 
 
 ## Deployable to any division
 
