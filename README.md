@@ -129,6 +129,8 @@ Key questions:
 
 ### Disaster Recovery
 
+### Business Continuity
+
 ## Skills
 
 ### Adoption 
@@ -137,3 +139,16 @@ Key questions:
 
 ### Advocates
 
+# Reusability
+All Cloud artefacts should be stateless as infrastructure with a path to restoring state from centralised repositories where rehydration is required. As such the cloud artefacts become freely exchangeable as waves in the sea. 
+
+## Deployable to any division
+
+All operational deployment scripts should be parameterised and accounted in a common and consistent manner. The use of Tags combined with policy preventing deployment without Tags enforces a model of operation that is governed and entitled. 
+
+> This Cloud Operating Model takes IT from a cost centre to a profit centre of our business. 
+
+## Common Identity model and roles
+share insights
+efficiences of scale (people, costss)
+Common tools and technologies
